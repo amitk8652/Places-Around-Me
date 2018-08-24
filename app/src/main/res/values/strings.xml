@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Places Around Me</string>
+    <string name="title_atm">ATM</string>
+    <string name="title_hospital">Hospital</string>
+    <string name="title_restaurant">Restaurant</string>
+    <string name="title_school">School</string>
+    <string name="title_flim">Theatre</string>
+<string name="action_settings">Setting</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
