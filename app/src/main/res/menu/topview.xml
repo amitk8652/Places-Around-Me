@@ -1,1 +1,27 @@
 
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/navigation_normal"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="Normal"
+        android:onClick="onClick"
+         />
+
+    <item
+        android:id="@+id/navigation_satellite"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="Satellite"
+        android:onClick="onClick"/>
+
+    <item
+        android:id="@+id/navigation_terrain"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="Terrain"
+        android:onClick="onClick"/>
+
+
+</menu>
